@@ -30,3 +30,4 @@ php artisan db:seed
 Generating a New Application Key
 
 php artisan key:generate
+Detaylı bilgi: https://drive.google.com/file/d/1pz7BoEsNmDwMmpi0j4KQ51ftsDVOG7Hr/view?usp=sharing
