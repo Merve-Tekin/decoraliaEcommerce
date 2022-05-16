@@ -12,7 +12,6 @@ XML PHP Extension
 Install
 Clone repo
 
-git clone https://github.com/intelligo-systems/laravel-ecommerce.git
 Install Composer
 
 Download Composer
