@@ -12,14 +12,7 @@ Download Composer
 composer update/install
 
 composer install
-Install Nodejs
 
-Download Node.js
-
-NPM dependencies
-
-npm install
-Using Laravel Mix
 
 npm run dev
 How to setting
